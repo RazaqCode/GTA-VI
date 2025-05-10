@@ -178,19 +178,16 @@ function App() {
             <div className="cntnr flex text-white w-full h-[80%] ">
               <div className="limg relative w-1/2 h-full">
                 <img
-                  className="absolute scale-[1.3] mt-16 top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2"
+                  className="absolute scale-[1.3] ml-20 mt-16 top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2"
                   src="./boy.webp"
                   alt=""
                 />
               </div>
               <div className="rg w-[30%] py-30">
-                <h1 className=" text-8xl">Still Running,</h1>
-                <h1 className=" text-8xl">Not Hunting</h1>
+                <h1 className=" text-8xl">DECRYPTING LIMITS,</h1>
+                <h1 className=" text-8xl">COMPILING DREAMS.</h1>
                 <p className="mt-10 text-xl font-[Helvetica_Now_Display]">
-                  Lorem ipsum, dolor sit amet consectetur adipisicing elit.
-                  Distinctio possimus, asperiores nam, omnis inventore nesciunt
-                  a architecto eveniet saepe, ducimus necessitatibus at
-                  voluptate.
+                  Inspired by the bold aesthetics of GTA 6, I crafted this interface purely using React to elevate the user experience. It’s not just a “UI” it's a statement in style, blending tech and design to capture attention and leave a mark.
                 </p>
                 {/* comment it from here 
 
