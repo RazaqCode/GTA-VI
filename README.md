@@ -8,7 +8,6 @@ and a rich user experience.
 
 This is my attempt at mixing creative design with clean, modern frontend architecture.
 
-<video width="640" height="360" controls>
-  <source src="https://github.com/user-attachments/assets/674d853b-4d63-44fb-81bc-e97afc7f00b4.mp4">
-  Your browser does not support the video tag.
-</video>
+
+https://github.com/user-attachments/assets/674d853b-4d63-44fb-81bc-e97afc7f00b4.mp4
+ 
